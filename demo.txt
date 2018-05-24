@@ -1,1 +1,3 @@
 Added some text to demo.txt.
+
+Adding a second sentence and paragraph.
